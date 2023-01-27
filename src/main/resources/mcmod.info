@@ -1,14 +1,14 @@
 [
 {
   "modid": "kushcraft",
-  "name": "Kushcraft",
+  "name": "KushCraft",
   "description": "The ultimate minecraft weed mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["kushcraftteam"],
-  "credits": "",
+  "credits": "[]",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
