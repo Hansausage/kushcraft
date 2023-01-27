@@ -1,6 +1,8 @@
 package dev.kushcraftdev.KushCraft.common;
 
 import java.util.Random;
+
+import dev.kushcraftdev.KushCraft.init.ItemInit;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockBush;
 import net.minecraft.block.IGrowable;
@@ -197,14 +199,14 @@ public class BlockCannabisCrop extends BlockBush implements IGrowable {
      * @return ItemSeed
      */
     protected Item getSeed() {
-        return new Item();
+        return ItemInit.CANNABIS_SEED;
     } 
  
     /**
      * @return ItemCrop
      */
     protected Item getCrop() {
-        return new Item();
+        return ItemInit.CANNABIS_PLANT;
     }
 
     /* (non-Javadoc)
