@@ -1,7 +1,5 @@
-package dev.kushcraftdev.KushCraft;
+package dev.kushcraftdev.kushcraft;
 
-import dev.kushcraftdev.KushCraft.common.CreativeTabKushcraft;
-import dev.kushcraftdev.KushCraft.init.BlockInit;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -10,6 +8,9 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 
 import org.apache.logging.log4j.Logger;
+
+import dev.kushcraftdev.kushcraft.common.CreativeTabKushcraft;
+import dev.kushcraftdev.kushcraft.init.BlockInit;
 
 @Mod(modid = KushCraft.MODID, name = KushCraft.NAME, version = KushCraft.VERSION)
 public class KushCraft

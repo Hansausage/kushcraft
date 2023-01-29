@@ -1,8 +1,8 @@
-package dev.kushcraftdev.KushCraft.common;
+package dev.kushcraftdev.kushcraft.common;
 
 import java.util.Random;
 
-import dev.kushcraftdev.KushCraft.init.ItemInit;
+import dev.kushcraftdev.kushcraft.init.ItemInit;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockBush;
 import net.minecraft.block.IGrowable;

@@ -1,9 +1,9 @@
-package dev.kushcraftdev.KushCraft.init;
+package dev.kushcraftdev.kushcraft.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import dev.kushcraftdev.KushCraft.common.BlockCannabisCrop;
+import dev.kushcraftdev.kushcraft.common.BlockCannabisCrop;
 import net.minecraft.block.Block;
 
 public class BlockInit {

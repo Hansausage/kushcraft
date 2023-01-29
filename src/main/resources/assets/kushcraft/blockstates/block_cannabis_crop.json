@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": {"model": "kushcraft:block_cannabis_crop0"},
+        "age=1": {"model": "kushcraft:block_cannabis_crop1"},
+        "age=2": {"model": "kushcraft:block_cannabis_crop2"},
+        "age=3": {"model": "kushcraft:block_cannabis_crop3"},
+        "age=4": {"model": "kushcraft:block_cannabis_crop4"},
+        "age=5": {"model": "kushcraft:block_cannabis_crop5"},
+        "age=6": {"model": "kushcraft:block_cannabis_crop6"},
+        "age=7": {"model": "kushcraft:block_cannabis_crop7"}
+    }
+}

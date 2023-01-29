@@ -1,6 +1,6 @@
-package dev.kushcraftdev.KushCraft.common;
+package dev.kushcraftdev.kushcraft.common;
 
-import dev.kushcraftdev.KushCraft.init.ItemInit;
+import dev.kushcraftdev.kushcraft.init.ItemInit;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 

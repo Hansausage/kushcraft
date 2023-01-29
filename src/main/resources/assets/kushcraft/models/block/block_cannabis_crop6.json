@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+      "layer0": "kushcraft:block/block_cannabis_crop6"
+    }
+  }

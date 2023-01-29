@@ -1,8 +1,8 @@
-package dev.kushcraftdev.KushCraft.common;
+package dev.kushcraftdev.kushcraft.common;
 
-import dev.kushcraftdev.KushCraft.KushCraft;
-import dev.kushcraftdev.KushCraft.init.BlockInit;
-import dev.kushcraftdev.KushCraft.init.ItemInit;
+import dev.kushcraftdev.kushcraft.KushCraft;
+import dev.kushcraftdev.kushcraft.init.BlockInit;
+import dev.kushcraftdev.kushcraft.init.ItemInit;
 import net.minecraft.block.Block;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.item.ItemSeeds;
